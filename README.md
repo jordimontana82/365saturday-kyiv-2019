@@ -12,6 +12,7 @@ For server-side unit testing please check out this repo.
 FakeXrmEasy basically mocks the crmsdk calls in .net
 
 - [FakeXrmEasy Repo](https://github.com/jordimontana82/fake-xrm-easy)
+- [365 devops repo](https://github.com/DynamicsValue/365saturday)
 
 Client-site unit testing
 ==============================================
