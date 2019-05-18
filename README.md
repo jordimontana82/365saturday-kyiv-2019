@@ -1,5 +1,3 @@
-# 365saturday 
-
 Welcome to this TDD for Dynamics 365 / CDS session!
 =====================================================
 
