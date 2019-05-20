@@ -14,7 +14,7 @@ FakeXrmEasy basically mocks the crmsdk calls in .net
 - [FakeXrmEasy Repo](https://github.com/jordimontana82/fake-xrm-easy)
 - [365 devops repo](https://github.com/DynamicsValue/365saturday)
 
-Client-site unit testing
+Client-side unit testing
 ==============================================
 
 We're going to basically use 2 projects: xrm-mock (for unit testing of the Xrm Form logic), and fakexrmeasy.js to mock the Web API endpoint from a javascript / typescript perspective.
